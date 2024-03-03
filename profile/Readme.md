@@ -1,5 +1,5 @@
 Thanks for reaching out 👋
 
-__[Socileaks.com](https://socileaks.com) source code is hosted at [GitLab](https://gitlab.com/socileaks)!__
+__[Viralerts](https://viralerts.com) source code is hosted at [GitLab](https://gitlab.com/viralerts)!__
 
 Your contributions are more than welcome ❤️
